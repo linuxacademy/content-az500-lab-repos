@@ -55,7 +55,7 @@ img {
     <ul>
       <li><a href="index.php">Home</a></li>
       <li><a class="active" href="page2.php">News</a></li>
-      <li><a href="page3.php">Contact</a></li>
+      <li><a href="page3.php">Products</a></li>
     </ul>
         <img src="/images/LALogo.png"
   </header>
